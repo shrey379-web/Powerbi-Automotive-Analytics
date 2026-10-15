@@ -120,3 +120,28 @@ car-sales-powerbi-dashboard/
 
 1. Clone or download this repository.
 2. Install Microsoft Power
+3. Open Car_Sales_Dashboard.pbix.
+4. Explore the charts, data table, and interactive slicers.
+5. Compare company, model, color, and customer/dealer information.
+
+📚 Skills Demonstrated
+
+1. Data cleaning and transformation
+2. DAX and KPI development
+3. Interactive dashboard design
+4. Automotive data analysis
+5. Company and model comparisons
+6. Data visualization and storytelling
+7. Business intelligence reporting
+
+🎯 Project Takeaway
+
+This project strengthened my ability to transform structured automotive data into an interactive business intelligence dashboard. It demonstrates how Power BI can be used to explore company performance, compare product-related metrics, and present complex data in an accessible visual format.
+
+👨‍💻 Author
+
+Shrey Gandhi
+
+Computer Science Engineer | AI/ML & Data Analytics Enthusiast | Power BI |
+
+⭐ If you find this project useful, feel free to explore the repository and share your feedback.
