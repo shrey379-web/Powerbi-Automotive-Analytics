@@ -2,6 +2,12 @@
 
 An interactive Power BI dashboard designed to analyze automotive sales data, company-wise income, car models, color preferences, and customer and dealer information.
 
+## 📊 Dashboard Preview
+
+![Car Sales Analysis Dashboard](Car%20Sales%20Dashboard.png)
+
+*Dashboard preview featuring key performance indicators, annual income analysis, company comparisons, color distribution, top models by price, and customer and dealer records.*
+
 
 ## 📌 Project Overview
 
